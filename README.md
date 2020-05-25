@@ -13,9 +13,9 @@ This option holds far more potential and capabilites than the Wiki option.  With
   * Select master/docs as a source
   * Optionally select a custom domain if you own one (you will have some DNS work to do)
   * Select a Jekyll theme
-* You should now be able to go to your repo: e.g. https://agoldstein.github.io/CapstoneDesignDemo/
+* You should now be able to go to your repo: e.g. https://agoldstein333.github.io/AGCapstoneDemo/
 * Start hitting the youtubes and github pages documentation for how best to install and use ruby and [Jekyll](https://help.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll) for your preferred operating system.  If you find yourself debugging github pages and Jekyll at the expense of actually working on your capstone, pick the simpler wiki strategy.
 
 
 ## Project Management
-* Scheduling, Kanban boards, [Milestones](https://github.com/agoldstein333/CapstoneDesignDemo/milestones) and associated [Issues](https://github.com/agoldstein333/CapstoneDemo/issues) and Progress can be tracked using the [Projects Tab](https://github.com/agoldstein333/CapstoneDesignDemo/projects)
+* Scheduling, Kanban boards, [Milestones](https://github.com/agoldstein333/CapstoneDesignDemo/milestones) and associated [Issues](https://github.com/agoldstein333/AGCapstoneDemo/issues) and Progress can be tracked using the [Projects Tab](https://github.com/agoldstein333/AGCapstoneDemo/projects)
